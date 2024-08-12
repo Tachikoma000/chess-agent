@@ -40,7 +40,7 @@ This is an interactive chess game that runs in the browser. Users can play again
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ai-powered-chess-game.git
+    git clone [https://github.com/yourusername/ai-powered-chess-game.git](https://github.com/Tachikoma000/chess-agent.git)
     cd ai-powered-chess-game/backend
     ```
 
